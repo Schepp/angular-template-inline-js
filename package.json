@@ -1,13 +1,14 @@
 {
-  "name": "angular-template-inline-js",
-  "version": "0.1.6",
+  "name": "schepp-angular-template-inline-js",
+  "version": "0.1.7",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/scriby/angular-template-inline-js"
+    "url": "git://github.com/Schepp/angular-template-inline-js"
   },
   "devDependencies": {
     "grunt": "0.4.5",
-    "grunt-mocha-test": "0.11.0"
+    "grunt-mocha-test": "0.11.0",
+    "grunt-release": "^0.13.0"
   }
 }
