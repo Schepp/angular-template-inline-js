@@ -1,6 +1,6 @@
 {
   "name": "schepp-angular-template-inline-js",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "main": "./index.js",
   "repository": {
     "type": "git",
